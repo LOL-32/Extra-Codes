@@ -523,8 +523,8 @@ print("#######################                        Queries                ###
 print("")
 
 
-x=str(input("Enter a Query 1: ")
-y=str(input("Enter a Query 2: ")
+x=str(input("Enter a Query 1: "))
+y=str(input("Enter a Query 2: "))
 
 
 #x= "information relevant contain webpage information"
